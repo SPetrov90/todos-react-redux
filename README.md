@@ -1,1 +1,1 @@
-# todos-react-redux
+# Simple example Todo-app from Redux documentation (https://github.com/reactjs/redux) examples with small edits.
